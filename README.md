@@ -1,0 +1,2 @@
+# IBMWatson-Virtual-Voice-Assistant
+This is my first big project. This utilizes the IBM Watson text to speech voice along with the VLC package to create a realistic voice assistant. It has a key word recognition system. This virtual assistant is capable of news, weather, internet searches, advanced calculations with complicated problems, taking notes, and so much more. It's design is simple but effective and it does as intended. 
