@@ -347,7 +347,7 @@ if __name__ == '__main__':
                     duration = player.get_length() / 1000
                     time.sleep(duration)
 
-            elif 'whats my ip' in query:  # Hashtag is how you do it. Not \\\ like in java idiot. (Anyway, keyword here)
+            elif 'whats my ip' in query:  
 
                 # Function to display hostname and
                 # IP address
@@ -411,8 +411,7 @@ if __name__ == '__main__':
 
                 get_Host_name_IP()  # Function call
 
-                # This code is contributed by "Sharad_Bhardwaj".
-                # This code has been modified to function with The Edgar's Voice Assistant
+
 
             elif 'how are you' in query:
                 with open('Ohdis_voice.wav', 'wb') as audio_file:
