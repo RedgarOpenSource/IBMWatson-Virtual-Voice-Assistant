@@ -3,6 +3,10 @@
 
 I participated in the CT-Stem Science Fair and participated in the LT. Governors Computing Challenge with this project.
 
+The mission for this project was to create a virtual assistant that can provide the exact same information Alexa or Google can provide without the need for recordings or data tracking for self improvement. 
+
+In the process of working on the project, I created something called "Voice Box" or the use of a voice API and directly streaming it through an audio player backend to give the impression of a talkling voice assistant.
+
 This utilizes the IBM Watson text to speech voice along with the VLC package to create a realistic voice assistant. It has a key word recognition system. This virtual assistant is capable of news, weather, internet searches, advanced calculations with complicated problems, taking notes, and so much more. The goal was to have a similar feel to Jarvis from Iron man. The goal was definitely achieved with such a realistic yet intelligent sounding voice. It's design is simple but effective and it does as intended. 
 
 
