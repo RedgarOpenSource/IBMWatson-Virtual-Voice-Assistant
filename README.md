@@ -3,7 +3,7 @@
 
 I participated in the CT-Stem Science Fair and participated in the LT. Governors Computing Challenge with this project.
 
-This is my first big project. It is my 10th grade personal project. This utilizes the IBM Watson text to speech voice along with the VLC package to create a realistic voice assistant. It has a key word recognition system. This virtual assistant is capable of news, weather, internet searches, advanced calculations with complicated problems, taking notes, and so much more. The goal was to have a similar feel to Jarvis from Iron man. The goal was definitely achieved with such a realistic yet intelligent sounding voice. It's design is simple but effective and it does as intended. 
+This utilizes the IBM Watson text to speech voice along with the VLC package to create a realistic voice assistant. It has a key word recognition system. This virtual assistant is capable of news, weather, internet searches, advanced calculations with complicated problems, taking notes, and so much more. The goal was to have a similar feel to Jarvis from Iron man. The goal was definitely achieved with such a realistic yet intelligent sounding voice. It's design is simple but effective and it does as intended. 
 
 
 
