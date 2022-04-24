@@ -11,4 +11,4 @@ This utilizes the IBM Watson text to speech voice along with the VLC package to 
 
 
 
-![Poster for SRP Project_ Ohdis (1)](https://user-images.githubusercontent.com/50426742/163075791-51969881-6080-4475-8cc8-9d2f66d95757.png)
+![Poster for SRP Project_ Ohdis](https://user-images.githubusercontent.com/50426742/164979954-c604c0a4-1948-4fc3-8697-3d75e4c71e92.png)
