@@ -3,11 +3,8 @@
 
 I participated in the CT-Stem Science Fair and participated in the LT. Governors Computing Challenge with this project.
 
-The mission for this project was to create a virtual assistant that can provide the exact same information Alexa or Google can provide without the need for recordings or data tracking for self improvement. 
+I'm sure many of us are familiar with Google Home, Alexa, and Siri as being our go-to voice assistants to answer random math problems, identification of ingredients in foods, or maybe tell us a joke. Unfortunately, those conveniences come at a price. In the status quo, if we dive deeper into these virtual assistants, they actually track data like shopping history, location history, and even discussion data! While we give this data to these large tech companies, they can sell it, use it to improve the virtual assistant's advertising algorithm, or worse, lose this valuable intrusive data to breaches and hackers. This is where Project Ohdis steps in. Ohdis is a virtual assistant that DOESN'T track data for self-improvement of its performance, an internet connection is OPTIONAL, and is incredibly lightweight on PCs and Macbooks. This utilizes IBM Watson's text-to-speech voice along with the VLC package to create a realistic voice assistant. This is my "voice box" method or the ability to modify a high-end audio file per question and answer to automatically erase conversation data and stay lightweight. It also has a keyword recognition system allowing users to ask questions in many different ways and still receive a response. This virtual assistant is capable of news, weather, internet searches, stock info, and even control over your computer by voice! 
 
-In the process of working on the project, I created something called "Voice Box" or the use of a voice API and directly streaming it through an audio player backend to give the impression of a talkling voice assistant.
-
-This utilizes the IBM Watson text to speech voice along with the VLC package to create a realistic voice assistant. It has a key word recognition system. This virtual assistant is capable of news, weather, internet searches, advanced calculations with complicated problems, taking notes, and so much more. The goal was to have a similar feel to Jarvis from Iron man. The goal was definitely achieved with such a realistic yet intelligent sounding voice. It's design is simple but effective and it does as intended. 
 
 
 
