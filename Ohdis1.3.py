@@ -165,14 +165,12 @@ def entryGreet():
 def usrname():
     columns = shutil.get_terminal_size().columns
 
-    print("💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯".center(columns))
     print("Welcome", uname.center(columns))
-    print("💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯".center(columns))
 
     with open('Ohdis_voice.wav', 'wb') as audio_file:
         audio_file.write(
             text_to_speech.synthesize(
-                "How can i Help you, sir",
+                "How can I Help you, sir",
                 voice=OhdisVoice,
                 accept='audio/wav'
             ).get_result().content)
